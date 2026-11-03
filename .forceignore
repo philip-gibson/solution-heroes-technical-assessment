@@ -12,3 +12,15 @@ package.xml
 **/__tests__/**
 
 node_modules/
+
+# AppSwitcher
+**/*.appMenu-meta.xml
+
+# Profiles
+**/*.profile-meta.xml
+
+# Profile Session Settings
+**/*.profileSessionSetting-meta.xml
+
+# Profile Password Policies
+**/*.profilePasswordPolicy-meta.xml
